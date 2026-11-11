@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "id": "buduj",
+  "version": "1.0.0",
+  "name": "Buduj",
+  "description": "Hologram i budowanie projektow z aplikacji Buduj. Komenda /buduj.",
+  "authors": ["Buduj"],
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": { "client": ["pl.buduj.BudujClient"] },
+  "depends": { "fabricloader": ">=0.16.0", "minecraft": "~1.19.2", "java": ">=17", "fabric-api": "*" }
+}

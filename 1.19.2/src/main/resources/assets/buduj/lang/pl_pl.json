@@ -1,0 +1,12 @@
+{
+  "key.categories.buduj": "Buduj",
+  "key.buduj.left": "Hologram: w lewo",
+  "key.buduj.right": "Hologram: w prawo",
+  "key.buduj.fwd": "Hologram: do przodu",
+  "key.buduj.back": "Hologram: do tylu",
+  "key.buduj.up": "Hologram: w gore",
+  "key.buduj.down": "Hologram: w dol",
+  "key.buduj.rot": "Hologram: obroc o 90",
+  "key.buduj.build": "BUDUJ",
+  "key.buduj.cancel": "Anuluj hologram"
+}
